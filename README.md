@@ -150,4 +150,3 @@ This project is licensed under the MIT License.
 ## 📣 About the Author
 
 This cybersecurity project was developed by **Ankush** as part of advancement in **Web Security** and **Secure Authentication Systems**.  
-Feel free to fork or contribute!
